@@ -1,6 +1,6 @@
 # AI Glossary
 
-At the [BADCamp AI Summit](https://www.badcamp.org/event/sessions/ai-summit) (Oakland, November 13, 2026), the room brainstormed AI terms people weren't clear on. I photographed the whiteboard and asked Claude to read the terms, research how each is currently used in AI and developer communities, and write this glossary. Terms are alphabetized; where a term has more than one current meaning, each is listed. Older or unrelated senses are left out. Sources are at the end, as of November 2026.
+At the [BADCamp AI Summit](https://www.badcamp.org/event/sessions/ai-summit) (Oakland, November 13, 2026), the the group brainstormed AI terms people weren't clear on. I photographed the whiteboard and asked Claude to read the terms, research how each is currently used in AI and developer communities, and write this glossary. Terms are alphabetized; where a term has more than one current meaning, each is listed. Older or unrelated senses are left out. Sources are at the end, as of November 2026.
 
 ---
 
